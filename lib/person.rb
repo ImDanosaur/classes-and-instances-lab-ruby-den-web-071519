@@ -1,7 +1,5 @@
 class Person
   
   def initialize
-    @adele_goldberg
-  end
-end
-
+    @adele_goldberg = adele_goldberg
+    @alan_kay = alan_kay
