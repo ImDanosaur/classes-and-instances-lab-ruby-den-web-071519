@@ -1,5 +1,5 @@
 class Person
   
-  def initialize()
+  def initialize(adele_goldberg, )
 end
 
